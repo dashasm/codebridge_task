@@ -26,7 +26,7 @@ Then you can open [http://localhost:3000](http://localhost:3000) to view it in t
 
 - React
 - TypeScript
-- Redux (Redux Toolkit, Redux Persist)
+- Redux (Redux Toolkit)
 - Router v6
 - SASS
 - Material UI
