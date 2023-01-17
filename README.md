@@ -1,6 +1,6 @@
 ### Codebridge React Test Task
 
-- [DEMO](https://dashasm.github.io/iteam_test_task/)
+- [DEMO](https://codebridge-task.netlify.app/)
 
 ---
 
